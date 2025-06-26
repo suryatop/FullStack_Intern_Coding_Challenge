@@ -28,8 +28,8 @@ JWT_KEY=supersecretkey
      
 </br>
 Tech Stack:
-<pre>Backend: Any one of backend framework from this ExpressJs/Loopback/NestJs
-Database: PostgreSQL/MySQL
+<pre>Backend: Any one of backend framework from this ExpressJs
+Database: MySQL
 Frontend: ReactJs
 </pre>
 
