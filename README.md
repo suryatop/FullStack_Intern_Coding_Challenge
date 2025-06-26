@@ -247,22 +247,22 @@ Email: Must follow standard email validation rules.
 <img width="1440" alt="Screenshot 2025-06-26 at 2 08 06 PM" src="https://github.com/user-attachments/assets/0e1feadd-1634-47f4-8b57-f34a69b7ce73" />
 To keep the GitHub repository clean, secure, and efficient, I have used a .gitignore file that:
 <pre>
-  # Ignore node_modules for both frontend and server
+Ignore node_modules for both frontend and server
 /frontend/node_modules
 /server/node_modules
 
-# Ignore environment variables
+Ignore environment variables
 /frontend/.env
 /server/.env
 
-# Ignore build or dist folders (if any)
+Ignore build or dist folders (if any)
 /frontend/build
 /server/dist
 
-# Ignore log files
+Ignore log files
 *.log
 
-# Ignore any specific IDE or editor files
+Ignore any specific IDE or editor files
 .vscode/
 .idea/
 </pre>
